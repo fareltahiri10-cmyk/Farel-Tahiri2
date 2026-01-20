@@ -1,0 +1,70 @@
+Pengertian Topologi Jaringan
+Topologi jaringan adalah cara menghubungkan sejumlah komputer agar dapat saling berkomunikasi, baik menggunakan kabel maupun nirkabel. Topologi jaringan bertujuan untuk mempermudah pertukaran informasi dan sering digunakan di perusahaan, lembaga, maupun institusi agar komunikasi berjalan cepat dan aman.
+
+Macam-Macam Topologi Jaringan
+
+1. Topologi Ring
+Topologi ring menghubungkan komputer membentuk lingkaran tertutup. Data mengalir satu arah sehingga tidak terjadi tabrakan data (collision).
+Kelebihan:
+	•	Hemat kabel
+	•	Aliran data stabil
+	•	Tidak terjadi collision
+Kekurangan:
+	•	Jika satu node rusak, seluruh jaringan terganggu
+	•	Tidak cocok untuk jaringan besar
+
+2. Topologi Star
+Topologi star menghubungkan semua komputer ke satu pusat (hub/switch). Semua komunikasi melewati pusat jaringan.
+Kelebihan:
+	•	Mudah dikembangkan
+	•	Kerusakan satu node tidak memengaruhi yang lain
+	•	Mudah mendeteksi gangguan
+Kekurangan:
+	•	Jika pusat rusak, jaringan lumpuh
+	•	Biaya instalasi relatif mahal
+
+3. Topologi Tree
+Topologi tree merupakan gabungan topologi star dan bus dengan struktur bertingkat seperti pohon.
+Kelebihan:
+	•	Cocok untuk jaringan skala besar
+	•	Mudah dikembangkan
+Kekurangan:
+	•	Bergantung pada kabel utama
+	•	Perawatan sulit dan biaya mahal
+
+4. Topologi Mesh
+Topologi mesh menghubungkan setiap komputer secara langsung satu sama lain.
+Kelebihan:
+	•	Keamanan tinggi
+	•	Transfer data cepat
+	•	Mudah mendeteksi kerusakan
+Kekurangan:
+	•	Membutuhkan banyak kabel
+	•	Biaya dan instalasi tinggi
+
+5. Topologi Hybrid
+Topologi hybrid adalah gabungan dua atau lebih jenis topologi jaringan.
+Kelebihan:
+	•	Fleksibel
+	•	Performa jaringan stabil
+Kekurangan:
+	•	Instalasi dan perawatan rumit
+	•	Membutuhkan banyak perangkat
+
+6. Topologi Linear (Bus)
+Topologi linear menggunakan satu kabel utama sebagai jalur data.
+Kelebihan:
+	•	Hemat biaya
+	•	Struktur sederhana
+Kekurangan:
+	•	Rentan collision
+	•	Jika kabel utama rusak, jaringan mati
+
+7. Jaringan Peer to Peer
+Topologi peer to peer menghubungkan dua komputer tanpa server pusat.
+Kelebihan:
+	•	Biaya murah
+	•	Instalasi mudah
+Kekurangan:
+	•	Keamanan rendah
+	•	Data bergantung pada masing-masing komputer
